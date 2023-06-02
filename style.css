@@ -1,0 +1,62 @@
+body {
+    background-color: #fdfaeb;
+}
+
+h1 {
+    color: #cc3917;
+}
+
+.form {
+    color: #cc3917;
+}
+
+.form-select {
+    background-color: #f9fadc;
+}
+
+.btn {
+    background-color: #cc3917;
+    border-color: #cc3917;
+}
+
+.btn:hover {
+    background-color: #f9fadc;
+    color: #cc3917;
+}
+
+.card {
+    background-color: #fdfaeb !important;
+    color: #cc3917;
+    border-color: #cc3917;
+}
+
+
+.bg-orange {
+    background-color: #cc3917;
+}
+
+.bg-orange h5 {
+    color: #fdfaeb;
+}
+
+.card-body p {
+    color: #cc3917;
+}
+
+.btn_passar {
+    background-color: #cc3917;
+    border-color: #cc3917;
+    width: 100%;
+}
+
+.btn_gostei {
+    color: #cc3917;
+    background-color: #fdfaeb;
+    border-color: #cc3917;
+    width: 100%;
+}
+
+.btn_gostei:hover {
+    background-color: #b1cf72;
+    color: #fdfaeb;
+}
